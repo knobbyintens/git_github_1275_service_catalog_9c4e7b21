@@ -11,8 +11,10 @@
   "runtime": "java11",
   "last_reviewed": "2026-10-07",
   "compliance": {
-    "status": "pending",
-    "severity": "none",
-    "violations": []
+    "status": "remediation_required",
+    "severity": "high",
+    "violations": [
+      "eol_runtime"
+    ]
   }
 }

@@ -11,8 +11,10 @@
   "runtime": "python3.11",
   "last_reviewed": "2025-05-20",
   "compliance": {
-    "status": "pending",
-    "severity": "none",
-    "violations": []
+    "status": "review_required",
+    "severity": "medium",
+    "violations": [
+      "review_overdue"
+    ]
   }
 }

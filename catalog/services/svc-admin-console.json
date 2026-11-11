@@ -11,8 +11,10 @@
   "runtime": "php7.4",
   "last_reviewed": "2026-10-30",
   "compliance": {
-    "status": "pending",
-    "severity": "none",
-    "violations": []
+    "status": "remediation_required",
+    "severity": "high",
+    "violations": [
+      "eol_runtime"
+    ]
   }
 }

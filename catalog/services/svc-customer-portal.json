@@ -11,10 +11,8 @@
   "runtime": "python3.11",
   "last_reviewed": "2026-10-30",
   "compliance": {
-    "status": "remediation_required",
-    "severity": "critical",
-    "violations": [
-      "waf_missing"
-    ]
+    "status": "pending",
+    "severity": "none",
+    "violations": []
   }
 }

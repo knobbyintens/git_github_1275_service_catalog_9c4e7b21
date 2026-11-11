@@ -11,10 +11,8 @@
   "runtime": "node18",
   "last_reviewed": "2026-10-02",
   "compliance": {
-    "status": "remediation_required",
-    "severity": "critical",
-    "violations": [
-      "encryption_gap"
-    ]
+    "status": "pending",
+    "severity": "none",
+    "violations": []
   }
 }

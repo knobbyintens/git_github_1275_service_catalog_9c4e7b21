@@ -11,7 +11,7 @@
   "runtime": "node18",
   "last_reviewed": "2026-10-30",
   "compliance": {
-    "status": "compliant",
+    "status": "pending",
     "severity": "none",
     "violations": []
   }

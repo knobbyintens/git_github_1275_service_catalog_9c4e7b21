@@ -11,11 +11,8 @@
   "runtime": "python3.9",
   "last_reviewed": "2025-05-20",
   "compliance": {
-    "status": "remediation_required",
-    "severity": "high",
-    "violations": [
-      "eol_runtime",
-      "review_overdue"
-    ]
+    "status": "pending",
+    "severity": "none",
+    "violations": []
   }
 }

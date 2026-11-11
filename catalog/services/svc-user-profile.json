@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-user-profile",
+  "display_name": "User Profile",
+  "description": "Stores customer profile attributes and communication preferences.",
+  "owner_team": "Identity",
+  "tier": 2,
+  "exposure": "internal",
+  "data_classification": "confidential",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "python3.11",
+  "last_reviewed": "2025-05-20",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

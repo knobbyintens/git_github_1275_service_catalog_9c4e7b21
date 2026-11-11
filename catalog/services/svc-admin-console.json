@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-admin-console",
+  "display_name": "Admin Console",
+  "description": "Internal back-office console for support and operations staff.",
+  "owner_team": "Security",
+  "tier": 1,
+  "exposure": "internal",
+  "data_classification": "confidential",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "php7.4",
+  "last_reviewed": "2026-10-30",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

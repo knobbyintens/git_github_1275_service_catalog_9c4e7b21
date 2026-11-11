@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-billing-worker",
+  "display_name": "Billing Worker",
+  "description": "Reconciles invoices and executes recurring charge runs.",
+  "owner_team": "Billing",
+  "tier": 1,
+  "exposure": "internal",
+  "data_classification": "restricted",
+  "encryption_at_rest": false,
+  "waf_enabled": true,
+  "runtime": "node18",
+  "last_reviewed": "2026-10-02",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-checkout-api",
+  "display_name": "Checkout API",
+  "description": "Handles cart validation and order placement for the storefront.",
+  "owner_team": "Payments",
+  "tier": 1,
+  "exposure": "public",
+  "data_classification": "restricted",
+  "encryption_at_rest": false,
+  "waf_enabled": true,
+  "runtime": "python3.9",
+  "last_reviewed": "2025-05-20",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

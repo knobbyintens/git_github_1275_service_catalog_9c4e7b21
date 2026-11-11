@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-payment-tokenizer",
+  "display_name": "Payment Tokenizer",
+  "description": "Vaults and tokenizes card details for downstream payment flows.",
+  "owner_team": "Payments",
+  "tier": 1,
+  "exposure": "internal",
+  "data_classification": "confidential",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "node16",
+  "last_reviewed": "2026-10-02",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

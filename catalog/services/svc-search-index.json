@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-search-index",
+  "display_name": "Search Index",
+  "description": "Builds and serves the product search index.",
+  "owner_team": "Search",
+  "tier": 3,
+  "exposure": "internal",
+  "data_classification": "internal",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "node18",
+  "last_reviewed": "2026-10-30",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-reporting-api",
+  "display_name": "Reporting API",
+  "description": "Serves financial and operational reports to internal consumers.",
+  "owner_team": "Analytics",
+  "tier": 2,
+  "exposure": "internal",
+  "data_classification": "internal",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "java11",
+  "last_reviewed": "2026-10-07",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

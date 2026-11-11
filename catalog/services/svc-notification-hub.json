@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-notification-hub",
+  "display_name": "Notification Hub",
+  "description": "Fan-out service for email, SMS and in-app notifications.",
+  "owner_team": "Platform",
+  "tier": 2,
+  "exposure": "internal",
+  "data_classification": "public",
+  "encryption_at_rest": true,
+  "waf_enabled": true,
+  "runtime": "node18",
+  "last_reviewed": "2024-09-22",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

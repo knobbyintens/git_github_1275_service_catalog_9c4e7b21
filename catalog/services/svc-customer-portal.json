@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-customer-portal",
+  "display_name": "Customer Portal",
+  "description": "Public self-service portal for account and subscription management.",
+  "owner_team": "Growth",
+  "tier": 1,
+  "exposure": "public",
+  "data_classification": "internal",
+  "encryption_at_rest": true,
+  "waf_enabled": false,
+  "runtime": "python3.11",
+  "last_reviewed": "2026-10-30",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

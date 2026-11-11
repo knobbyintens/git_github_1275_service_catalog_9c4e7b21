@@ -1,0 +1,18 @@
+{
+  "service_id": "svc-analytics-pipeline",
+  "display_name": "Analytics Pipeline",
+  "description": "Batch ETL jobs feeding the product analytics warehouse.",
+  "owner_team": "Data Platform",
+  "tier": 2,
+  "exposure": "internal",
+  "data_classification": "internal",
+  "encryption_at_rest": true,
+  "waf_enabled": false,
+  "runtime": "python3.9",
+  "last_reviewed": "2025-05-20",
+  "compliance": {
+    "status": "pending",
+    "severity": "none",
+    "violations": []
+  }
+}

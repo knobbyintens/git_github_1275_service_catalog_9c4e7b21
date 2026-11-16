@@ -9,7 +9,7 @@
   "encryption_at_rest": true,
   "waf_enabled": true,
   "runtime": "node18",
-  "last_reviewed": "2024-09-22",
+  "last_reviewed": "2024-09-27",
   "compliance": {
     "status": "pending",
     "severity": "none",

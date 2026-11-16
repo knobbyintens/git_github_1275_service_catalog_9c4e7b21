@@ -9,7 +9,7 @@
   "encryption_at_rest": true,
   "waf_enabled": false,
   "runtime": "python3.9",
-  "last_reviewed": "2025-05-20",
+  "last_reviewed": "2025-05-25",
   "compliance": {
     "status": "pending",
     "severity": "none",

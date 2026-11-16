@@ -9,7 +9,7 @@
   "encryption_at_rest": true,
   "waf_enabled": true,
   "runtime": "java11",
-  "last_reviewed": "2026-10-07",
+  "last_reviewed": "2026-10-12",
   "compliance": {
     "status": "pending",
     "severity": "none",
